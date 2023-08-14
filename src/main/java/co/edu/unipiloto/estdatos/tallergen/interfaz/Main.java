@@ -22,7 +22,7 @@ import co.edu.unipiloto.estdatos.tallergen.mundo.Vestuario.Talla;
 
 /**
  *
- * @author USUARIO
+ * @author Laura Cardenas
  */
 public class Main <T> {
 
